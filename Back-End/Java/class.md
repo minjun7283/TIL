@@ -1,1 +1,11 @@
-# 클래스 객체 인스턴스
+# 자바
+
+```java
+public class Hello {
+
+	public static void main(String[] args) {
+		System.out.println("Hello");
+	}
+}
+```
+
