@@ -12,7 +12,6 @@ public class ArrayEx02 {
 		for(int num:nums) {
 			System.out.print(num+" ");
 		}
-
 	}
 
 }
