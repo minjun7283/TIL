@@ -19,3 +19,6 @@ class b(var c : String,var d: Int){
 }
 
 ```
+
+### 관련 내용
+- [init 블럭](https://github.com/minjun7283/TIL/blob/master/Back-End/kotlin/%EC%B4%88%EA%B8%B0%ED%99%94%EB%B8%94%EB%9F%AD.md)
